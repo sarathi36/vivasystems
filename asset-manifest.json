@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vivasystems/static/css/main.e8a77e94.css",
-    "main.js": "/vivasystems/static/js/main.97bd8864.js",
+    "main.js": "/vivasystems/static/js/main.05d2feb4.js",
     "static/js/453.bea66239.chunk.js": "/vivasystems/static/js/453.bea66239.chunk.js",
     "static/media/PHP.mp4": "/vivasystems/static/media/PHP.39bbaa0a3b4b6b7d0dac.mp4",
     "static/media/moon.jpg": "/vivasystems/static/media/moon.010a08962c14d13f63d4.jpg",
@@ -48,11 +48,11 @@
     "static/media/envelope-regular.svg": "/vivasystems/static/media/envelope-regular.8e36928d9b48bb5ad84bc6cffbf69b40.svg",
     "static/media/facebook-brands-solid.svg": "/vivasystems/static/media/facebook-brands-solid.581116911c840c156a7bd5b13a3f7a20.svg",
     "main.e8a77e94.css.map": "/vivasystems/static/css/main.e8a77e94.css.map",
-    "main.97bd8864.js.map": "/vivasystems/static/js/main.97bd8864.js.map",
+    "main.05d2feb4.js.map": "/vivasystems/static/js/main.05d2feb4.js.map",
     "453.bea66239.chunk.js.map": "/vivasystems/static/js/453.bea66239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a77e94.css",
-    "static/js/main.97bd8864.js"
+    "static/js/main.05d2feb4.js"
   ]
 }
