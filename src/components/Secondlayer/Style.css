@@ -1,0 +1,75 @@
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin: auto;
+    width: 90%;
+    position: sticky;
+    background-color: white;
+    top: 0%;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav li{
+    display: flex;
+    width: 20%;
+    flex-wrap: wrap;
+    text-decoration: none;
+    list-style-type: none;
+    float: right;
+    padding: 5px;
+    padding-right: 15px;
+    
+    margin-top: 10px;
+}
+nav #first{
+    display: flex;
+    flex-wrap: wrap;
+    width: 20%;
+    margin: auto;
+}
+nav #second{
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    margin: auto;
+}
+nav #four{
+    padding: 5px;
+    margin-top: 10px;
+    width: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    margin:auto;
+}
+nav button{
+    background-color: red;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: white;
+}
+nav #first img{
+    margin-top: 10px;
+    float: left;
+    padding-right: 15px;
+    margin: auto;
+}
+nav input{
+    float: left;
+    width:90%;
+    background: transparent;
+   
+    padding: 5px;
+    margin-top: 10px;
+}
+#location{
+    display: block;
+    scroll-margin-top: 200px;
+    width: 60%;
+    margin: auto;
+
+}

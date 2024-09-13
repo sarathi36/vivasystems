@@ -1,0 +1,50 @@
+.error{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    background-size: cover;
+    margin-top: 50px;
+    
+}
+#error{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#error img{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.error div{
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+.error h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+}
+.error h3:hover{
+    color: red;
+    background-color: white;
+}
+#video h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+#video h2:hover{
+    color: white;
+    background-color: red;
+}

@@ -1,0 +1,105 @@
+.goatmain{
+    width: 90%;
+    box-shadow: 500px 50px 200px 50px  inset black;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+   
+}
+.goatmain #goatmain{
+    width: 60%;
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+   
+}
+#goatt{
+    width: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#goat1{
+    width: 40%;
+    margin: auto;
+    display: block;
+    flex-wrap: wrap;
+}
+#goat1 button{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#goat1 div{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 5px;
+}
+#goat1 div h4{
+    background-color: white;
+    margin-right: 15px;
+    padding: 10px;
+    border: 1px solid black;
+}
+#goat1 p{
+    margin-right: 10px;
+    color: whitesmoke;
+}
+#goat1 #name{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(239, 231, 231);
+}
+.goatmain #goatmain img{
+    width: 250px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px;
+}
+.goatmain #goat2{
+    width: 10%;
+    display: block;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#goat2 p{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#about{
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin: auto;
+}
+.cast{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+.cast #cast{
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+#cast p{
+    margin: auto;
+    text-align: center;
+}
+#cast div{
+    display: block;
+   padding: 20px;
+    flex-wrap: wrap;
+    margin-top: 0%;
+}
+.cast #cast img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}

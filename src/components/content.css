@@ -1,0 +1,31 @@
+.maincont{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;
+}
+.maincont #maincont{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+    margin: auto;
+}
+#maincont img{
+    height: 400px;
+    border-radius: 25px;
+    width: 250px;
+
+}
+#rec{
+    width: 90%;
+    margin: auto;
+}
+#maincont p{
+    margin-top: 0%;
+}
+#font{
+    margin-top: 0%;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}

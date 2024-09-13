@@ -1,0 +1,41 @@
+.footer{
+    width: 100%;
+    background-color: gray;
+    margin-top: 50px;
+}
+#footer{
+    width: 80%;
+    background-color: gray;
+    margin: auto;
+}
+#footer div{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 15px;
+}
+#footer div p{
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+#footer img{
+    margin: auto;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+
+}
+#link{
+    width: 50%;
+    margin: auto;
+}
+#link img{
+    width: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    height: 30px;
+}
+#link img:hover{
+    box-shadow: 2px 2px 2px 2px black;
+}

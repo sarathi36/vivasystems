@@ -1,0 +1,26 @@
+.live{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.live #live{
+    width: 25%;
+  
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#live div{
+   
+   
+    padding: 15px;
+}
+#live img{
+    height: 400px;
+    width: 250px;
+    border-radius: 20px;
+   
+
+}
