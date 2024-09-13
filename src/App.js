@@ -15,7 +15,8 @@ function App() {
   return (
    <>
   <Routes>
-    <Route path='/' element={<Mainpage />} />
+    <Route exact path='/'  element={<Mainpage />} />
+    
     {/* <Route path='/BookMyShow' element={<Mainpage />} /> */}
     <Route path='/Movies' element={<Movies />} />
     <Route path='/Mainpage' element={<Mainpage />} />
