@@ -16,7 +16,7 @@ function App() {
    <>
   <Routes>
     <Route path='/' element={<Mainpage />} />
-    <Route path='/BookMyShow' element={<Mainpage />} />
+    {/* <Route path='/BookMyShow' element={<Mainpage />} /> */}
     <Route path='/Movies' element={<Movies />} />
     <Route path='/Mainpage' element={<Mainpage />} />
     <Route path='/Goat' element={<Goat />}/>
